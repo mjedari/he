@@ -1,0 +1,17 @@
+{
+    "name": "mahdi/he",
+    "autoload": {
+        "psr-4": {
+            "Mahdi\\He\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Mahdi Jedari",
+            "email": "i.jedari@gmail.ir"
+        }
+    ],
+    "require": {
+        "automattic/woocommerce": "^3.1"
+    }
+}
